@@ -1,0 +1,13 @@
+# 28hse.com Crawler Configuration
+
+# Base URL for 28hse.com
+base_url: https://www.28hse.com
+
+# Transaction type: buy or rent
+transaction_type: buy
+
+# District filter: 新界, 九龍, 港島, or specific districts like 大埔, 元朗, etc.
+district: 沙田
+
+# Property category: 住宅, 車位, 別墅, 村屋, etc.
+category: 住宅
